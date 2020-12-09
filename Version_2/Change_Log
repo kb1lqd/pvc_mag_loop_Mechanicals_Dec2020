@@ -1,0 +1,24 @@
+---12-7-2020---
+
+Top Cover
+* Changed color to an off black
+* Increased 4-40 hole from 72 thou radius to 80 thou
+** Found that the lower right hole was 70 not 72 thou which explains the single very tight hole!
+* Changed copper pipe cutout from subtractive part to parameteric.
+
+
+Main Front Clamp
+* Changed color to an off black
+* Increased PVC tab to 1.25" to give room for washers
+* Increased 1/4 holes from radius 0.1285" to 0.1555" to reach 0.311" diameter loose clearance
+** I also think I may be able to improve dimensions by adjusting CURA estimated PLA shrinkage.
+* Updated copper pipe radius cutout to face pocket parametric rather than subrative part workbench.
+* Added 100 thou chamfer to the fastener legs to main body to reduce stress riser (May not be needed with below addition of supports)
+* Added 200 thou dual supports to bolt mounts and main support body
+
+Back Clamp
+* Changed color to an off black
+* Increased PVC tab to 1.25" to give room for washers and match main front clamp
+* Increased 1/4 holes from radius 0.1285" to 0.1555" to reach 0.311" diameter loose clearance
+* Added tangental bolt supports of 200 thou on each side to support the bolt mount
+* Adde 100 thou chamfer to to bolt to pvc curve to reduce stress risers (may not be needed with above supports)
