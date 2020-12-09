@@ -11,3 +11,11 @@ This project is a FreeCAD design that is creating mounting bracket for my amateu
 The design is fixed to these dimensions. Future update(s) may look to make this more scalable within FreeCAD using parametric links.
 
 ![PVC to copper pipe magnetic loop adapter overview CAD image](images/main_overview_20201208.png)
+
+## Known To-Do's
+
+* Create top mount bracket
+* Create capacitor mount bracket
+* Create coupling loop bracket
+* Update bottom clamp to show 4-40 threaded inserts
+* Create BOM
