@@ -26,4 +26,11 @@ Back Clamp
 * Increased PVC tab to 1.25" to give room for washers and match main front clamp
 * Increased 1/4 holes from radius 0.1285" to 0.1555" to reach 0.311" diameter loose clearance
 * Added tangental bolt supports of 200 thou on each side to support the bolt mount
-* Adde 100 thou chamfer to to bolt to pvc curve to reduce stress risers (may not be needed with above supports)
+* Added 100 thou chamfer to to bolt to pvc curve to reduce stress risers (may not be needed with above supports)
+
+Version 3
+------
+General
+* Created octagon copper pipe for mag loop
+* Moved bottom clamp parts down to bottom of octagon
+* Found bottom cover copper cutout was only through half of part, fixed.
